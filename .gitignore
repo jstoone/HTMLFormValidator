@@ -1,0 +1,13 @@
+/vendor
+
+*.swp
+.idea
+.project
+.DS_Store
+.phpintel
+
+# stupid temporary files
+# you clutter my repo,
+# vanish, right now
+tmp*
+

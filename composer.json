@@ -1,0 +1,22 @@
+{
+    "name": "jstoone/html-form-validator",
+    "description": "Validate a form based on it's html data attributes.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakob Steinn",
+            "email": "jakobsteinn@protonmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8"
+    },
+    "autoload": {
+        "psr-0": {
+            "JakobSteinn\\HTMLFormValidator": "src/"
+        }
+    }
+}
